@@ -1,6 +1,17 @@
 ## How Run
 
-First, run the server:
+1) Install the node packages
+
+```bash
+npm i
+```
+2) Build the project 
+
+```bash
+npm run build
+```
+
+3) Run the Project 
 
 ```bash
 npm run start
