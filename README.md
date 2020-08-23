@@ -1,2 +1,17 @@
-# news-room
-Simple Project to display Top headlines using News Room APIs
+## How Run
+
+First, run the server:
+
+```bash
+npm run start
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## News API
+
+This app is using News API to search the top headlines.
+
+## Author
+
+Aashita Desai (aashi2193@gmail.com)
