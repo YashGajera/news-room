@@ -19,4 +19,4 @@ Aashita Desai (aashi2193@gmail.com)
 ## Demo
 
 Comming Soon!
-![Demo](demo.png)
+![Demo](demo.png) 
