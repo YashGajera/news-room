@@ -15,3 +15,8 @@ This app is using News API to search the top headlines.
 ## Author
 
 Aashita Desai (aashi2193@gmail.com)
+
+## Demo
+
+Comming Soon!
+![Demo](demo.png)
