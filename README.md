@@ -29,5 +29,6 @@ Aashita Desai (aashi2193@gmail.com)
 
 ## Demo
 
-Comming Soon!
+https://news-room-one.vercel.app/
+
 ![Demo](demo.png) 
